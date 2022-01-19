@@ -1,7 +1,7 @@
 ---
 title: Component disabled
 icon: config
-category: check
+category: Guide
 
 navbar: false
 sidebar: false

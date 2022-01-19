@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 icon: home
 title: Project home
 heroImage: /logo.svg

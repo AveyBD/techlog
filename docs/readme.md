@@ -28,11 +28,11 @@ project:
     desc: Detailed description of the article
     link: https://link.to.your.article
 
-footer: customize your footer text
+footer: 2022 © Techlog
 ---
 
-This is a blog home page.
+<!-- This is a blog home page. -->
 
-To use this layout, you should set both `blog: true` and `home: true` in the page front matter.
+<!-- To use this layout, you should set both `blog: true` and `home: true` in the page front matter. -->
 
-For related configuration docs, please see [blog homepage](https://vuepress-theme-hope.github.io/guide/blog/home/)
+<!-- For related configuration docs, please see [blog homepage](https://vuepress-theme-hope.github.io/guide/blog/home/) -->
