@@ -4,7 +4,7 @@ icon: page
 # This is the title of the article
 title: page config
 # Set author
-author: Ms.Hope
+author: Horen pok Pok
 # Set writing time
 time: 2020-01-01
 # A page can only have one category
