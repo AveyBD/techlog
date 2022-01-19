@@ -1,7 +1,7 @@
 {
   "name": "techlog",
   "version": "1.0.0",
-  "description": "a techmagazine using vuepress",
+  "description": "techlog",
   "license": "MIT",
   "scripts": {
     "docs:build": "vuepress build docs",
